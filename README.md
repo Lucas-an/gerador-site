@@ -1,2 +1,2 @@
 # gerador-site-HTML-CSS-JAVASCRIPT
- gera senhas aleátorias
+**Gera senhas aleátorias**, para facilitar a *criatividade.*
